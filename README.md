@@ -1,5 +1,5 @@
 # AWS-Comprehend
-Integrate the Amazon AWS Comprehend Service with python!
+Amazon Comprehend is a cloud-based service by Amazon Web Services (AWS) that makes it easy to perform sentiment analysis on your text data. This README will guide you through a simple Python script that uses the Boto3 library to interact with the Comprehend service for sentiment analysis.
 
 # Preview
 
